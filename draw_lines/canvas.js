@@ -25,6 +25,6 @@ for(let i = 1; i <= 10; i++) {
   context.beginPath();
   context.arc(x, y, 30, 0, Math.PI *2, false);
   context.strokeStyle = `rgb(${color1}, ${color2}, ${color3})`
-  context.stroke();
+   context.stroke();
 }
 
