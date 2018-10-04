@@ -8,6 +8,6 @@ Click on particular topic to open it's demo.
 
 * [Animate Canvas](https://praveen-me.github.io/play-with-canvas/animate-canvas)
 
-*  [Code Gravity](https://praveen-me.github.io/play-with-canvas/code-gravity)
+*  [Code Gravity](https://praveen-me.github.io/play-with-canvas/code-gravity/dist/)
 
-*  [Collison Detection](https://praveen-me.github.io/play-with-canvas/collision-detection)
+*  [Collison Detection](https://praveen-me.github.io/play-with-canvas/collision-detection/dist/)
