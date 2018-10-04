@@ -11,3 +11,5 @@ Click on particular topic to open it's demo.
 *  [Code Gravity](https://praveen-me.github.io/play-with-canvas/code-gravity/dist/)
 
 *  [Collison Detection](https://praveen-me.github.io/play-with-canvas/collision-detection/dist/)
+
+* [Collision Detection 2](https://praveen-me.github.io/play-with-canvas/collision-detection2/dist/)

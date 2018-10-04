@@ -77,7 +77,6 @@ function animate() {
 
     let distance = getDistance(ball.x, ball2.x, ball.y, ball2.y);
 
-
     if(distance < ball.radius + ball2.radius) {
         ball.color = 'red';
     } else {
