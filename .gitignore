@@ -1,3 +1,5 @@
 node_modules
 /code-gravity/.cache
 /code-gravity/dist
+/collision-detection/.cache
+/collision-detection/dist
