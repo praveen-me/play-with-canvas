@@ -13,3 +13,5 @@ Click on particular topic to open it's demo.
 *  [Collison Detection](https://praveen-me.github.io/play-with-canvas/collision-detection/dist/)
 
 * [Collision Detection 2](https://praveen-me.github.io/play-with-canvas/collision-detection2/dist/)
+
+* [Circular Effect](https://praveen-me.github.io/play-with-canvas/circular-motion/dist/)

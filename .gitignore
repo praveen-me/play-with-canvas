@@ -2,3 +2,8 @@ node_modules
 /code-gravity/.cache
 /collision-detection/.cache
 /collision-detection2/.cache
+/circular-motion/.cache
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
